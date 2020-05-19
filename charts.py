@@ -3,7 +3,6 @@ from reportlab.lib import colors
 from reportlab.graphics.charts.barcharts import (
     VerticalBarChart
 )
-from reportlab.lib.formatters import DecimalFormatter
 
 
 def getVetricalBarChart(taxes_int):
